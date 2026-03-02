@@ -76,7 +76,6 @@ HISTORY_TTL_SECONDS = 7 * 24 * 60 * 60   # History retention (7 days)
 ## 👥 Default Users
 
 The application comes with two predefined users:
-- **aman** / pass123
 - **demo** / demo2025
 
 *For production, replace the authentication logic in `VALID_USERS` with a proper auth system.*
